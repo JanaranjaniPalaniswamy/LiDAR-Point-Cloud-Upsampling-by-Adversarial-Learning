@@ -26,29 +26,37 @@ Five different models that work on point clouds are choosed as baselines.
 ## Sample Results
 All the baseline models are compared using the output point cloud data and range images depending on the architecture.
 
-```
-![workflow](https://github.com/JanaranjaniPalaniswamy/LiDAR-Point-Cloud-Upsampling-by-Adversarial-Learning/blob/main/sample_results/workflow.png?raw=true "Work Flow")
+### <p align="center"> Work Flow </p>
+<p align="center"> <img src="sample_results/workflow.png" width="40%" /> </p>
 
-![pu-net](https://github.com/JanaranjaniPalaniswamy/LiDAR-Point-Cloud-Upsampling-by-Adversarial-Learning/blob/main/sample_results/PU-net.png?raw=true "PU-Net Results")
+### <p align="center"> PU-Net Results </p>
+<p align="center"> <img src="sample_results/PU-net.png" width="70%" /> </p>
 
-![pu-gan](https://github.com/JanaranjaniPalaniswamy/LiDAR-Point-Cloud-Upsampling-by-Adversarial-Learning/blob/main/sample_results/pu-gan.png?raw=true "PU-GAN Results")
+### <p align="center"> PU-GAN Results </p>
+<p align="center"> <img src="sample_results/pu-gan.png" width="70%" /> </p>
 
-![dgml](https://github.com/JanaranjaniPalaniswamy/LiDAR-Point-Cloud-Upsampling-by-Adversarial-Learning/blob/main/sample_results/dgml.png?raw=true "DGML-VAE Results")
+### <p align="center"> DGML-VAE Results </p>
+<p align="center"> <img src="sample_results/dgml.png" width="70%" /> </p>
 
-![lhrcnn](https://github.com/JanaranjaniPalaniswamy/LiDAR-Point-Cloud-Upsampling-by-Adversarial-Learning/blob/main/sample_results/lhrcnn.png?raw=true "LHRCNN Results")
+### <p align="center"> LHRCNN Results </p>
+<p align="center"> <img src="sample_results/lhrcnn.png" width="70%" /> </p>
 
-![unet](https://github.com/JanaranjaniPalaniswamy/LiDAR-Point-Cloud-Upsampling-by-Adversarial-Learning/blob/main/sample_results/u-net.png?raw=true "U-Net Results")
+### <p align="center"> U-Net Results </p>
+<p align="center"> <img src="sample_results/u-net.png" width="70%" /> </p>
 
-![lsrgan](https://github.com/JanaranjaniPalaniswamy/LiDAR-Point-Cloud-Upsampling-by-Adversarial-Learning/blob/main/sample_results/LSRGAN.png?raw=true "LSRGAN Results")
-```
+### <p align="center"> LSRGAN Results </p>
+<p align="center"> <img src="sample_results/LSRGAN.png" width="70%" /> </p>
+
 
 ## Quantitative Results
 
 Point cloud based architectures are evaluated using EMD and CD metrics.
 Range image based architectures are evaluated using EMD, CD and PSNR metrics.
 
-```
-![Alt text](sample_results/metric.png?raw=true "Range Image based architecture")
+### <p align="center"> Point Cloud based architecture </p>
+<p align="center"> <img src="sample_results/metric_pc.png" width="40%" /> </p>
 
-![Alt text](sample_results/metric_pc.png?raw=true "Point Cloud based architecture")
-```
+### <p align="center"> Range Image based architecture </p>
+<p align="center"> <img src="sample_results/metric.png" width="40%" /> </p>
+
+
