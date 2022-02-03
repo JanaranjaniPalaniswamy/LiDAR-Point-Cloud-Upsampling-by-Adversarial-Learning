@@ -27,19 +27,19 @@ Five different models that work on point clouds are choosed as baselines.
 All the baseline models are compared using the output point cloud data and range images depending on the architecture.
 
 ```
-![Alt text](sample_results/workflow.png?raw=true "Work Flow")
+![workflow](https://github.com/JanaranjaniPalaniswamy/LiDAR-Point-Cloud-Upsampling-by-Adversarial-Learning/blob/main/sample_results/workflow.png?raw=true "Work Flow")
 
-![Alt text](sample_results/PU-net.png?raw=true "PU-Net Results")
+![pu-net](https://github.com/JanaranjaniPalaniswamy/LiDAR-Point-Cloud-Upsampling-by-Adversarial-Learning/blob/main/sample_results/PU-net.png?raw=true "PU-Net Results")
 
-![Alt text](sample_results/pu-gan.png?raw=true "PU-GAN Results")
+![pu-gan](https://github.com/JanaranjaniPalaniswamy/LiDAR-Point-Cloud-Upsampling-by-Adversarial-Learning/blob/main/sample_results/pu-gan.png?raw=true "PU-GAN Results")
 
-![Alt text](sample_results/dgml.png?raw=true "DGML-VAE Results")
+![dgml](https://github.com/JanaranjaniPalaniswamy/LiDAR-Point-Cloud-Upsampling-by-Adversarial-Learning/blob/main/sample_results/dgml.png?raw=true "DGML-VAE Results")
 
-![Alt text](sample_results/lhrcnn.png?raw=true "LHRCNN Results")
+![lhrcnn](https://github.com/JanaranjaniPalaniswamy/LiDAR-Point-Cloud-Upsampling-by-Adversarial-Learning/blob/main/sample_results/lhrcnn.png?raw=true "LHRCNN Results")
 
-![Alt text](sample_results/u-net.png?raw=true "U-Net Results")
+![unet](https://github.com/JanaranjaniPalaniswamy/LiDAR-Point-Cloud-Upsampling-by-Adversarial-Learning/blob/main/sample_results/u-net.png?raw=true "U-Net Results")
 
-![Alt text](sample_results/LSRGAN.png?raw=true "LSRGAN Results")
+![lsrgan](https://github.com/JanaranjaniPalaniswamy/LiDAR-Point-Cloud-Upsampling-by-Adversarial-Learning/blob/main/sample_results/LSRGAN.png?raw=true "LSRGAN Results")
 ```
 
 ## Quantitative Results
