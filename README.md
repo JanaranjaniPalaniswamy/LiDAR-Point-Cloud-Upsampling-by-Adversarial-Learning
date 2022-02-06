@@ -4,6 +4,8 @@ In this work I built a framework called Lidar Super-Resolution GAN (LSRGAN) a GA
 Achieved the goal of obtaining a dense up-sampled point cloud that retains the LiDAR lines structure. This is widely regarded as the first step of LiDAR processing
 and scene understanding and has shown to contribute in improving the efficiency in many applications such as: object detection, semantic segmentation, and localization and mapping.
 
+Report: Final_Report_Updated_Lidar_PointCloud_Upsampling_Using_GANs.pdf
+
 ## Datasets
 
 KITTI and Nuscenes datasets were used for training
